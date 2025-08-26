@@ -1,6 +1,5 @@
 #!/bin/bash
-#
-#
+
 << comments
 We will execute if else statement
 For numeric comparison: Use -gt, -lt, -eq, etc.
