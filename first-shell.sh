@@ -18,4 +18,4 @@ read username
 echo "You entered $username"
 comment2
 
-echo "The arguments in $0 are : $1 , $2"
+#echo "The arguments in $0 are : $1 , $2"
