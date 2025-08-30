@@ -7,7 +7,7 @@ echo "This is our first shell script"
 Anything 
 written here
 will not be executed
-multiline comments
+mulitiline comments
 comment
 
 <<comment2
